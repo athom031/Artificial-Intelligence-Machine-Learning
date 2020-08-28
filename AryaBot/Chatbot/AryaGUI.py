@@ -2,8 +2,7 @@ from tkinter import *
 from Arya import *
 import Arya
 import sys
-
-### INITIALIZE ROOT ###
+###########MAIN INITIALIZATION###################
 Arya.personality = 50
 root = Tk() #global blank window
 Text_widget = Text(root, bd=7,font = ('Courier New Bold', '10'),fg='black',bg='snow')

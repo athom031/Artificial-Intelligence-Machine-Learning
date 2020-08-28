@@ -64,7 +64,7 @@ The other output will change based on how Arya feels:
 * "Who are you?"
 * "I am good at <insert noun>"
 Finally input will affect Arya's personality beyond setting it manually:
-* "You are a <insert adj>"
+* "You are <insert adj>"
 
 ## Inpsiration
 
