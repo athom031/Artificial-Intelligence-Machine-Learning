@@ -44,12 +44,15 @@ To run and start a conversation with Arya:
 
 There will most likely be some warnings when you run the program:
 * Deprecation warning of tkinter():
-	DEPRECATION WARNING: The system version of Tk is deprecated and may be removed in a future release. Please don't rely on it. Set TK_SILENCE_DEPRECATION=1 to suppress this warning.
+```
+DEPRECATION WARNING: The system version of Tk is deprecated and may be removed in a future release. Please don't rely on it. Set TK_SILENCE_DEPRECATION=1 to suppress this warning.
+```
 * I experienced several CoreText warnings but the font ended up working just fine:
-	2020-08-28 16:31:16.387 python[63904:1351710] CoreText note: Client requested name ".SFNSMono-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
-	2020-08-28 16:31:16.387 python[63904:1351710] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
-	2020-08-28 16:31:16.464 python[63904:1351710] CoreText note: Client requested name ".SF NS Mono", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
-
+```
+2020-08-28 16:31:16.387 python[63904:1351710] CoreText note: Client requested name ".SFNSMono-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2020-08-28 16:31:16.387 python[63904:1351710] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+2020-08-28 16:31:16.464 python[63904:1351710] CoreText note: Client requested name ".SF NS Mono", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+```
 ### Limitations
 
 AI is a complex field which is the reason for the Turing Test to exist. <br/>
