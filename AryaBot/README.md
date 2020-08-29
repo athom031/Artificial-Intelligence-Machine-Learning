@@ -28,16 +28,18 @@ First install python on to your system. <br/>
 ### Prerequisites
 
 Install the following python modules:
-	pip install requests
-	pip install tweepy
-	pip install -U textblob
-	python -m textblob.download_corpora
-
+```
+pip install requests
+pip install tweepy
+pip install -U textblob
+python -m textblob.download_corpora
+```
 ### Compile
 
 To run and start a conversation with Arya:
-	python AryaGUI.py
-	
+```
+python AryaGUI.py
+```	
 ## Reflection
 
 ### Warnings
