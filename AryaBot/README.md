@@ -1,6 +1,8 @@
 ## Artifical Intelligence - Neural Networks
 
-![Demo_Interface](https://github.com/athom031/Artificial_Intelligence/blob/master/AryaBot/demo_img/aryaWanderer.jpg)
+<div align="center">
+<img src="https://github.com/athom031/Artificial_Intelligence/blob/master/AryaBot/demo_img/aryaWanderer.jpg" width = "50%"/> 
+</div><br/>
 
 Arya is a chat bot that learns a 'negative', 'neutral', or 'positive' personality and responds occordingly. <br/>
 
