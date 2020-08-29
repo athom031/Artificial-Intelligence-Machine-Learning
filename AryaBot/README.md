@@ -1,5 +1,7 @@
 ## Artifical Intelligence - Neural Networks
 
+### Arya the ChatBot
+
 <div align="center">
 <img src="https://github.com/athom031/Artificial_Intelligence/blob/master/AryaBot/demo_img/aryaWanderer.jpg" width = "50%"/> 
 </div><br/>
