@@ -66,10 +66,12 @@ Because of that there are limitations on Arya.
 
 Some output stays the same no matter the personality:
 * "What time is it?" will return standard time of clock <br/>
+
 The other output will change based on how Arya feels:
 * "Who am I?"
 * "Who are you?"
 * "I am good at _insert noun_" <br/>
+
 Finally input will affect Arya's personality beyond setting it manually:
 * "You are a _insert adj_"
 
