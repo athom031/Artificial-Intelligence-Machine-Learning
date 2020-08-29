@@ -9,10 +9,10 @@
 
 ## Abstract
 
-Given a feature set with N classified instances and M features, we want to find the feature subset that will best represent the dataset for future unclassified instances. This uses the Nearest Neighbor Classifier and One Out algorithm to measure each potential feature subset. <br>
-One Out Algorithm: <br/>
-Take one data point out and build a Nearest Neighbor classifier from the current feature subset. Then use this classifier to guess the one out point. We do this for every point to determine the accuracy of our current feature subset.<br/>
-Feature Selection <br/>
+Given a feature set with N classified instances and M features, we want to find the feature subset that will best represent the dataset for future unclassified instances. This uses the Nearest Neighbor Classifier and One Out algorithm to measure each potential feature subset.
+##### One Out Algorithm: 
+Take one data point out and build a Nearest Neighbor classifier from the current feature subset. Then use this classifier to guess the one out point. We do this for every point to determine the accuracy of our current feature subset.
+##### Feature Selection:
 We select features one of two ways, either we start with no features (forward selection) or all features (backward selection). Then we simply greedily narrow it down to the most accurate subset of features (remember we evaluate accuracy with the one out algorithm.
 
 ## Getting Started
@@ -52,6 +52,6 @@ python plot.py
 Though foward selection and backward selection will result in similar accurate feature subset, these subsets will not always be the same. <br/>
 Forward selection will replicate the accuracy of backward selection with less features. <br/>
 This makes the features picked by Backwards Selection harder to pick. <br/>
-Backwards Selection also takes more time on larger datasets. <br/>
+Backwards Selection also takes more time on larger datasets. 
 
 [Example]("https://github.com/athom031/Artificial_Intelligence/tree/master/FeatureSelectionNN/feature_accuracy_example")
