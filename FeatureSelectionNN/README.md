@@ -54,4 +54,4 @@ Forward selection will replicate the accuracy of backward selection with less fe
 This makes the features picked by Backwards Selection harder to pick. <br/>
 Backwards Selection also takes more time on larger datasets. 
 
-[Example]("https://github.com/athom031/Artificial_Intelligence/tree/master/FeatureSelectionNN/feature_accuracy_example")
+[Example]("https://github.com/athom031/Artificial_Intelligence/tree/master/FeatureSelectionNN/feature_accuracy_example/")
