@@ -53,4 +53,4 @@ Though foward selection and backward selection will result in similar accurate f
 Forward selection will replicate the accuracy of backward selection with less features. <br/>
 This makes the features picked by Backwards Selection harder to pick. <br/>
 Backwards Selection also takes more time on larger datasets. <br/>
-[Mac Python 3 Download](https://opensource.com/article/19/5/python-3-default-mac#what-to-do)
+[Example](feature_accuracy_example)
