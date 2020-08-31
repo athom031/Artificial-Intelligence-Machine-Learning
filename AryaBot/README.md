@@ -1,4 +1,4 @@
-## Artifical Intelligence - Neural Networks
+## Artifical Intelligence - Logic Systems
 
 ### Arya the ChatBot
 
