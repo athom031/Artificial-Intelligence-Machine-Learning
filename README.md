@@ -8,7 +8,7 @@ The ability to take previous data and rules and then manipulate them to create n
 *Project*: Arya Chat Bot - See [Here](https://github.com/athom031/Artificial-Intelligence-Machine-Learning/tree/master/AryaBot)
 
 **Machine Learning**: 
-An application that provides a system with the ability to "learn" from previous data. <br/>
+An application that provides a system with the ability to "learn" from previous data.
 
 *Project*: Nearest Neighbor - See [Here](https://github.com/athom031/Artificial-Intelligence-Machine-Learning/tree/master/FeatureSelectionNN)
 
